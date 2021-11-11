@@ -3,7 +3,7 @@ import java.util.Locale;
 import java.util.Scanner;
 
 /**
- * BMI Calculator tells you if you are fat or not.
+ * BMI Calculator Calculates BMI with height and weight.
  * @version 11/08/2021
  * @author John Bolognesi
  */
